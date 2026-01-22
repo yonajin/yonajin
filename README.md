@@ -4,7 +4,7 @@
 
 ---
 
-### 🌟 About Me  
+About Me  
 🎓 3rd Year **BS Computer Science** Student (Graduating 2027)  
 💻 Passionate about **Web Development** & **Cybersecurity**  
 🌱 Currently Learning **AWS**, **Django**, and **Cybersecurity Fundamentals**  
@@ -12,7 +12,7 @@
 
 ---
 
-### 🧠 Skills & Tools  
+Skills & Tools  
 <p align="center">
   <!-- Web Dev -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -33,7 +33,7 @@
 
 ---
 
-### 🛠️ Featured Projects  
+Featured Projects  
 📍 [**PANGASINAN-TRAVELS**](https://github.com/yonajin/PANGASINAN-TRAVELS)  
 > 🌍 A simple travel-themed webpage designed using **HTML** & **CSS (Bootstrap)**.  
 
@@ -48,14 +48,13 @@
 
 ---
 
-### 🌱 Currently Working On  
+Currently Working On  
 - Improving front-end development with **JavaScript**  
-- Learning **ethical hacking** & **network security**  
 - Building a **personal portfolio website**  
 
 ---
 
-### 📫 Connect With Me  
+Connect With Me  
 <p align="center">
   <a href="mailto:fionagene@gmail.com"><img src="https://img.shields.io/badge/Email-fionagene%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/fiona-gene-umipig-basa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -65,7 +64,7 @@
 
 ---
 
-### 📊 GitHub Stats  
+GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yonajin&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yonajin&theme=tokyonight" alt="Streak Stats" width="48%" />
