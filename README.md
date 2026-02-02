@@ -1,6 +1,6 @@
 <!-- Banner or Header -->
-<h1 align="center">Hi there 👋, I'm Fiona Gene Umipig Basa (yonajin)</h1>
-<h3 align="center">💻 BSCS Student | Aspiring Web Developer & Cybersecurity Enthusiast</h3>
+<h1 align="center">Hi, I'm yonajin</h1>
+<h3 align="center">💻 BSCS Student | Aspiring Web Developer</h3>
 
 ---
 
