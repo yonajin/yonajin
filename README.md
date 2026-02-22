@@ -1,14 +1,14 @@
 <!-- Banner or Header -->
 <h1 align="center">Hi, I'm yonajin</h1>
-<h3 align="center">💻 BSCS Student | Aspiring Web Developer</h3>
+<h3 align="center">BSCS Student | Aspiring Web Developer</h3>
 
 ---
 
 About Me  
-🎓 3rd Year **BS Computer Science** Student (Graduating 2027)  
-💻 Passionate about **Web Development** & **Cybersecurity**  
-🌱 Currently Learning **AWS**, **Django**, and **Cybersecurity Fundamentals**  
-🚀 Goal: Build responsive, secure, and user-friendly web applications  
+3rd Year **BS Computer Science** Student (Graduating 2027)  
+Passionate about **Web Development** & **Cybersecurity**  
+Currently Learning **AWS**, **Django**, and **Cybersecurity Fundamentals**  
+Goal: Build responsive, secure, and user-friendly web applications  
 
 ---
 
