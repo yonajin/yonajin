@@ -5,7 +5,7 @@
 ---
 
 About Me  
-3rd Year **BS Computer Science** Student (Graduating 2027)  
+4th Year **BS Computer Science** Student (Graduating 2027)  
 Passionate about **Web Development** & **Cybersecurity**  
 Currently Learning **AWS**, **Django**, and **Cybersecurity Fundamentals**  
 Goal: Build responsive, secure, and user-friendly web applications  
